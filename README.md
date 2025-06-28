@@ -37,7 +37,7 @@ $ python weather_analysis.py               # prints Q5–Q8 results
 
 ---
 
-## 📁 Project layout
+## Project layout
 
 ```
 ├─ data/                 # CSVs & SQLite live here (git‑ignored)
@@ -65,14 +65,14 @@ $ python weather_analysis.py               # prints Q5–Q8 results
     * Fetches `https://data.buienradar.nl/2.0/feed/json` (updated \~10 min).
     * Creates **two** CSVs:
 
-        * `measurements.csv` — adds `measurementid` (UUID PK).
-        * `stations.csv` — unique list of stations.
+        * `measurements.csv`: adds `measurementid` (UUID PK).
+        * `stations.csv`: unique list of stations.
 2. **`build_weather_db.py`**
 
     * Ensures schema: `stations` (PK`stationid`),
       `measurements` (PK`measurementid`, FK`stationid`).
     * `INSERT OR IGNORE / OR REPLACE` keeps runs clean
-3. **`weather_analysis.py`** — pure SQL answers for:
+3. **`weather_analysis.py`** : pure SQL answers for:
 
     * Highest temperature (Q5)
     * Average temperature (Q6)

@@ -1,0 +1,41 @@
+stationid,stationname,lat,lon,regio
+6215,Meetstation Voorschoten,52.12,4.43,Voorschoten
+6225,Meetstation IJmuiden,52.47,4.57,IJmuiden
+6229,Meetstation Texelhors,53.0,4.75,Texel
+6235,Meetstation Den Helder,52.92,4.78,Den Helder
+6239,Meetstation Zeeplatform F-3,54.85,4.73,Noordzee
+6240,Meetstation Schiphol,52.3,4.77,Amsterdam
+6242,Meetstation Vlieland,53.25,4.92,Vlieland
+6248,Meetstation Wijdenes,52.63,5.17,Hoorn
+6249,Meetstation Berkhout,52.65,4.98,Berkhout
+6251,Meetstation Hoorn Terschelling,53.38,5.35,Wadden
+6257,Meetstation Wijk aan Zee,52.5,4.6,Wijk aan Zee
+6258,Meetstation Houtribdijk,52.65,5.4,Enkhuizen-Lelystad
+6260,Meetstation De Bilt,52.1,5.18,Utrecht
+6267,Meetstation Stavoren,52.88,5.38,West-Friesland
+6269,Meetstation Lelystad,52.45,5.53,Lelystad
+6270,Meetstation Leeuwarden,53.22,5.77,Leeuwarden
+6273,Meetstation Marknesse,52.7,5.88,Noordoostpolder
+6275,Meetstation Arnhem,52.07,5.88,Arnhem
+6277,Meetstation Lauwersoog,53.42,6.2,Noord-Groningen
+6278,Meetstation Heino,52.43,6.27,Zwolle
+6279,Meetstation Hoogeveen,52.73,6.52,Hoogeveen
+6280,Meetstation Groningen,53.13,6.58,Groningen
+6283,Meetstation Groenlo-Hupsel,52.07,6.65,Oost-Overijssel
+6286,Meetstation Nieuw Beerta,53.2,7.15,Oost-Groningen
+6290,Meetstation Twente,52.27,6.9,Twente
+6310,Meetstation Vlissingen,51.45,3.6,Vlissingen
+6319,Meetstation Westdorpe,51.23,3.83,Terneuzen
+6323,Meetstation Goes,51.53,3.9,Goes
+6330,Meetstation Hoek van Holland,51.98,4.1,Hoek van Holland
+6340,Meetstation Woensdrecht,51.45,4.33,Woensdrecht
+6343,Meetstation Rotterdam Geulhaven,51.88,4.32,Rotterdam Haven
+6344,Meetstation Rotterdam,51.95,4.45,Rotterdam
+6348,Meetstation Lopik-Cabauw,51.97,4.93,West-Utrecht
+6350,Meetstation Gilze Rijen,51.57,4.93,Gilze Rijen
+6356,Meetstation Herwijnen,51.87,5.15,Gorinchem
+6370,Meetstation Eindhoven,51.45,5.42,Eindhoven
+6375,Meetstation Volkel,51.65,5.7,Uden
+6377,Meetstation Ell,51.2,5.77,Weert
+6380,Meetstation Maastricht,50.92,5.78,Maastricht
+6391,Meetstation Arcen,51.5,6.2,Venlo
